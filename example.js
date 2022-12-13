@@ -1,1 +1,0 @@
-alert('Asuck my sjsi')
