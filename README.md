@@ -1,4 +1,4 @@
-#StealthV2
+# StealthV2
 Stealth V2 is a new proxy based off Rhodium, meant for people who care more about privacy than unblocking sites.</br>
 
 ✅AES URL Encryption</br>
